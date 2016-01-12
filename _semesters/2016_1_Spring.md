@@ -16,5 +16,5 @@ sessions:
       -
         title: "Chapters 1 - 3"
 
-    practice_url: "/assests/assignments/HW1-FunctionalProgramminginJava.pdf"
+    practice_url: "/assets/assignments/HW1-FunctionalProgramminginJava.pdf"
 ---
