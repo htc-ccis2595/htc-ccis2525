@@ -16,5 +16,32 @@ sessions:
       -
         title: "Chapters 1 - 3"
 
-    practice_url: "/assets/assignments/HW1-FunctionalProgramminginJava.pdf"
+    practice_url: "/assets/assignments/HW1.html"
+
+
+  - #Session 2
+    lectures:
+      -
+        title: "Java Basics Lecture"
+#        notes_url: "/lecture_notes/welcome.html"
+        slides_url:  "/assets/slides/s2-java-basics.pdf"
+
+    readings:
+      -
+        title: "Chapters 4 - 5"
+
+    practice_url: "/assets/assignments/HW2.html"
+
+  - #Session 3
+    lectures:
+      -
+        title: "Java Objects & References"
+#        notes_url: "/lecture_notes/welcome.html"
+        slides_url:  "/assets/slides/s3-objects-references.pdf"
+
+    readings:
+      -
+        title: "Chapter 6"
+
+    practice_url: "/assets/assignments/HW3.html"
 ---
