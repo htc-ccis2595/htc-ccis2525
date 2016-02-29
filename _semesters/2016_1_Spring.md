@@ -58,7 +58,7 @@ sessions:
 
     project:
       url: "/assets/assignments/tictactoe.pdf"
-      title: "Tic-Tac-Toe Part 1"
+      title: "HW5: Tic-Tac-Toe Part 1"
 
   - #Session 5
     lectures:
@@ -73,5 +73,38 @@ sessions:
 
     project:
       url: "/assets/assignments/tictactoe.pdf"
-      title: "Tic-Tac-Toe Part 2"
+      title: "HW6: Tic-Tac-Toe Part 2"
+
+  - #Session 6
+    lectures:
+      -
+        title: "Interfaces & Packages"
+#        notes_url: "/lecture_notes/welcome.html"
+#        slides_url:  "/assets/slides/s3-objects-references.pdf"
+
+    readings:
+      -
+        title: "Chapter 9"
+
+    practice_url: "/assets/assignments/HW7.html"
+
+    project:
+      url: "/assets/assignments/tictactoe.pdf"
+      title: "Tic-Tac-Toe Part 3"
+
+
+  - #Session 7
+    lectures:
+      -
+        title: "Exception Handling"
+#        notes_url: "/lecture_notes/welcome.html"
+#        slides_url:  "/assets/slides/s3-objects-references.pdf"
+
+    readings:
+      -
+        title: "Chapter 10"
+
+    project:
+      url: "/assets/assignments/tictactoe.pdf"
+      title: "Project 1:  Tic-Tac-Toe Game"
 ---
