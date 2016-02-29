@@ -86,7 +86,7 @@ sessions:
       -
         title: "Chapter 9"
 
-    practice_url: "/assets/assignments/HW7.html"
+    practice_url: "/assets/assignments/HW6.html"
 
     project:
       url: "/assets/assignments/tictactoe.pdf"
