@@ -107,4 +107,7 @@ sessions:
     project:
       url: "/assets/assignments/tictactoe.pdf"
       title: "Project 1:  Tic-Tac-Toe Game"
+
+    practice_url: "/assets/assignments/HW7.html"
+
 ---
