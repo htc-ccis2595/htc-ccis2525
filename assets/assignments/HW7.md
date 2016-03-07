@@ -9,7 +9,7 @@ Before beginning, you’ll want to read through (or review) Chapter 9 in your te
 As you complete each chapter, work through the Self Test Exercises at the end of each Chapter to measure what you have learned. The answers are in Appendix A at the back of the book, so you can evaluate and correct your work when you are done. If you have questions on anything covered, please ask. The class chat room will be an excellent spot to discuss these, but will only be as interesting as you make it.
 
 ## GitHub Info
-Repository:  https://github.com/htc-ccis2595/shapes
+Repository:  [https://github.com/htc-ccis2595/shapes]([https://github.com/htc-ccis2595/shapes])
 
 You need to fork this repository and submit a pull request to turn in the assignment.  
 
