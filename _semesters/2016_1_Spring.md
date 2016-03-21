@@ -58,7 +58,7 @@ sessions:
 
     project:
       url: "/assets/assignments/tictactoe.pdf"
-      title: "HW5: Tic-Tac-Toe Part 1"
+      title: "HW4: Tic-Tac-Toe Part 1"
 
   - #Session 5
     lectures:
@@ -73,7 +73,7 @@ sessions:
 
     project:
       url: "/assets/assignments/tictactoe.pdf"
-      title: "HW6: Tic-Tac-Toe Part 2"
+      title: "HW5: Tic-Tac-Toe Part 2"
 
   - #Session 6
     lectures:
@@ -109,5 +109,22 @@ sessions:
       title: "Project 1:  Tic-Tac-Toe Game"
 
     practice_url: "/assets/assignments/HW7.html"
+
+  - #Session 7
+    lectures:
+      -
+        title: "No class tonight!"
+      -
+        title: "Exam 1 available on D2L"
+
+    readings:
+      -
+        title: "Chapter 11 - File I/O"
+
+    project:
+      url: "/assets/assignments/piglatin.pdf"
+      title: "Project 2:  Pig Latin Translator"
+
+    practice_url: "/assets/assignments/HW8.html"
 
 ---
