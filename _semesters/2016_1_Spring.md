@@ -110,7 +110,7 @@ sessions:
 
     practice_url: "/assets/assignments/HW7.html"
 
-  - #Session 7
+  - #Session 8
     lectures:
       -
         title: "No class tonight!"
@@ -126,5 +126,41 @@ sessions:
       title: "Project 2:  Pig Latin Translator"
 
     practice_url: "/assets/assignments/HW8.html"
+
+  - #Session 9
+    lectures:
+      -
+        title: "Misc. Topics - Enums, Collections, Wrapper Classes, String functions, & more"
+
+#    readings:
+#      -
+#        title: "Read Javadoc for String class functions"
+
+    project:
+      url: "/assets/assignments/piglatin.pdf"
+      title: "Project 2:  Pig Latin Translator"
+
+  - #Session 10
+    lectures:
+      -
+        title: "Project 3 Design Discussion"
+      -
+        title: "Exam next week"
+
+    practice_url: "/assets/assignments/HW9.html"
+
+    project:
+      url: "/assets/assignments/piglatin.pdf"
+      title: "Project 2:  Pig Latin Translator"
+
+  - #Session 11
+    lectures:
+      -
+        title: "Exam 2 - in-class"
+
+    project:
+      #url: "/assets/assignments/piglatin.pdf"
+      title: "Project 3:  Web Data Project"
+
 
 ---
