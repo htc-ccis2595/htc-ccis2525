@@ -40,7 +40,7 @@ layout: page
     {% if session.practice %}
     <p>
       {% if session.practice.name %}
-      <a href="{{ session.practicet.url | prepend: site.baseurl }}">{{ session.practice.name }}</a>
+      <a href="{{ session.practice.url | prepend: site.baseurl }}">{{ session.practice.name }}</a>
       {% else %}
         <a href="{{ session.practice.url | prepend: site.baseurl }}">Homework Assignment</a>
       {% endif %}
