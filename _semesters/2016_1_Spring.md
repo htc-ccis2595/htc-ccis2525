@@ -16,7 +16,9 @@ sessions:
       -
         title: "Chapters 1 - 3"
 
-    practice_url: "/assets/assignments/HW1.html"
+    practice:
+      url: "/assets/assignments/HW1.html"
+      name: "Homework 1"
 
 
   - #Session 2
@@ -30,7 +32,9 @@ sessions:
       -
         title: "Chapters 4 - 5"
 
-    practice_url: "/assets/assignments/HW2.html"
+    practice:
+      url: "/assets/assignments/HW2.html"
+      name: "Homework 2"
 
   - #Session 3
     lectures:
@@ -43,7 +47,9 @@ sessions:
       -
         title: "Chapter 6"
 
-    practice_url: "/assets/assignments/HW3.html"
+    practice:
+      url: "/assets/assignments/HW3.html"
+      name: "Homework 3"
 
   - #Session 4
     lectures:
@@ -86,7 +92,9 @@ sessions:
       -
         title: "Chapter 9"
 
-    practice_url: "/assets/assignments/HW6.html"
+    practice:
+      url: "/assets/assignments/HW6.html"
+      name: "Homework 6"
 
     project:
       url: "/assets/assignments/tictactoe.pdf"
@@ -108,7 +116,9 @@ sessions:
       url: "/assets/assignments/tictactoe.pdf"
       title: "Project 1:  Tic-Tac-Toe Game"
 
-    practice_url: "/assets/assignments/HW7.html"
+    practice:
+      url: "/assets/assignments/HW7.html"
+      name: "Homework 7"
 
   - #Session 8
     lectures:
@@ -125,7 +135,9 @@ sessions:
       url: "/assets/assignments/piglatin.pdf"
       title: "Project 2:  Pig Latin Translator"
 
-    practice_url: "/assets/assignments/HW8.html"
+    practice:
+      url: "/assets/assignments/HW8.html"
+      name: "Homework 8"
 
   - #Session 9
     lectures:
@@ -147,7 +159,9 @@ sessions:
       -
         title: "Exam next week"
 
-    practice_url: "/assets/assignments/HW9.html"
+    practice:
+      url: "/assets/assignments/HW9.html"
+      name: HW 9 - Proj 3 Data Classes
 
     project:
       url: "/assets/assignments/piglatin.pdf"
@@ -157,9 +171,11 @@ sessions:
     lectures:
       -
         title: "Exam 2 - in-class"
+      -
+        title: "Rice Ball Mystery Extra Credit (See D2L News)"
 
     project:
-      #url: "/assets/assignments/piglatin.pdf"
+      url: "/assets/assignments/webdata.html"
       title: "Project 3:  Web Data Project"
 
 
