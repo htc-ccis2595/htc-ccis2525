@@ -17,8 +17,8 @@ sessions:
         title: "Chapters 1 - 3"
 
     practice:
-      url: "/assets/assignments/HW1.html"
-      name: "Homework 1"
+      - url: "/assets/assignments/HW1.html"
+      - name: "Homework 1"
 
 
   - #Session 2
@@ -33,8 +33,8 @@ sessions:
         title: "Chapters 4 - 5"
 
     practice:
-      url: "/assets/assignments/HW2.html"
-      name: "Homework 2"
+      - url: "/assets/assignments/HW2.html"
+      - name: "Homework 2"
 
   - #Session 3
     lectures:
@@ -48,8 +48,8 @@ sessions:
         title: "Chapter 6"
 
     practice:
-      url: "/assets/assignments/HW3.html"
-      name: "Homework 3"
+      - url: "/assets/assignments/HW3.html"
+      - name: "Homework 3"
 
   - #Session 4
     lectures:
@@ -93,8 +93,8 @@ sessions:
         title: "Chapter 9"
 
     practice:
-      url: "/assets/assignments/HW6.html"
-      name: "Homework 6"
+      - url: "/assets/assignments/HW6.html"
+      - name: "Homework 6"
 
     project:
       url: "/assets/assignments/tictactoe.pdf"
@@ -117,8 +117,8 @@ sessions:
       title: "Project 1:  Tic-Tac-Toe Game"
 
     practice:
-      url: "/assets/assignments/HW7.html"
-      name: "Homework 7"
+      - url: "/assets/assignments/HW7.html"
+      - name: "Homework 7"
 
   - #Session 8
     lectures:
@@ -136,8 +136,8 @@ sessions:
       title: "Project 2:  Pig Latin Translator"
 
     practice:
-      url: "/assets/assignments/HW8.html"
-      name: "Homework 8"
+      - url: "/assets/assignments/HW8.html"
+      - name: "Homework 8"
 
   - #Session 9
     lectures:

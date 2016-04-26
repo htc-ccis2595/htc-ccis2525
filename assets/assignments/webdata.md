@@ -38,7 +38,8 @@ We designed a Review with the following properties:
 ### Reviewer Class
 We designed the Reviewer class with the following properties:
 
-- Name (screen name or user name)
+- UserName (screen name or user name)
+- Name (actual name - optional)
 - Age
 - Gender
 - Comments/Profile - whatever text they want to share
@@ -46,4 +47,8 @@ We designed the Reviewer class with the following properties:
 - Password
 
 
-## More To Come Each Week...
+### InvalidDataException
+We will add a custom Exception to indicate that invalid data was found.  This should be used as appropriate in the setter methods for each class.  For example, in the Game class we have a star rating that should have a value of 0-5.  (Zero indicates it is not set.)  If the set method is called with a value outside of that range, then the InvalidDataException should be thrown.
+
+### Validation method
+Before saving data to the database, it is important to make sure all our valid fields are set.  If not, then we shouldn't save the data and need to give an error back to the user.  To check that the required fields on our object have been set, we will add a validate method to each class.  This method should return true if all required fields on the object have a valid value, and false if they do not.  (The error to the user will be handled elsewhere.)
