@@ -6,7 +6,7 @@ This week's homework will have you build the core data classes for our Project 3
 You will get HW points for having this work completed on time.  Incomplete work for this assignment will count against your HW grade but not necessarily your final project grade.
 
 ## GitHub Info
-Repository:  [https://github.com/htc-ccis2595/web-data-project](https://github.com/htc-ccis2595/web-data-project)
+Repository:  [https://github.com/htc-ccis2595/web-data-projects](https://github.com/htc-ccis2595/web-data-projects)
 
 You need to fork this repository and submit a pull request to turn in the assignment.  Please post a screenshot of the pull request to the D2L dropbox.  The dropbox is mainly used to communicate due dates, not for storing the completed work.  You do not need to upload the project to D2L, only to GitHub.
 
