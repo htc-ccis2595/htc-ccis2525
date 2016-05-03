@@ -178,5 +178,21 @@ sessions:
       url: "/assets/assignments/webdata.html"
       title: "Project 3:  Web Data Project"
 
+  - #Session 12
+    lectures:
+      -
+        title: "Project 3 Class Review"
 
+    practice:
+      url: "/assets/assignments/HW9.html"
+      name: HW 9 - Proj 3 Data Classes
+
+  - #Session 13
+    lectures:
+      -
+        title: "Spring Boot Introduction"
+
+    practice:
+      url: "/assets/assignments/HW10.html"
+      name: HW 10 - Proj 3 Spring Application Classes      
 ---
